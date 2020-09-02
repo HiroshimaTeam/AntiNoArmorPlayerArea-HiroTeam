@@ -2,8 +2,8 @@
 ![AntiNoStuffArea](https://zupimages.net/up/20/24/4988.png)
 ---
 ### About
-[ENG] This is a [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (or forks) plugin Worldguard Addon where you can add WorldGuard areas as AntiNoStuff area ! :grin:<br/><br/>
-[FRA] C'est un [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) plugin Worldguard Addon où vous pourrez ajouter des Areas WorldGuard comme Area AntiNoStuff ! :grin:
+[ENG] This is a [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (or forks) plugin Worldguard Addon where you can add WorldGuard areas as AntiNoStuff area. An AntiNoStuff Area allow to eject no stuff player from the area ! :grin:<br/><br/>
+[FRA] C'est un [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) plugin Worldguard Addon où vous pourrez ajouter des Areas WorldGuard comme Area AntiNoStuff. Un AntiNoStuff Area permet d'éjécter les joueurs No Stuff de l'area ! :grin:
 
 ---
 ### How to use
