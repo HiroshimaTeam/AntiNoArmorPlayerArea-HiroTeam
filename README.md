@@ -7,7 +7,7 @@
 
 ---
 ### How to use
-[ENG] Configure in config.yml the message. Don't forget install WorldGuard in your Server. Make a area with WorldGuard and after you can add/remove/see_list AntiNoStuff area with the command /antinostuff "<add/remove/list> <WorldGuard area name>" </br>
+[ENG] Configure in config.yml the message. Don't forget install WorldGuard in your Server. Make a area with WorldGuard and after you can add/remove/see_list AntiNoStuff area with the command "/antinostuff <add/remove/list> <WorldGuard area name>" </br>
 
 [FRA] Configurer dans le config.yml votre message. N'oubliez pas d'installer WorldGuard sur votre serveur. Créer une area avec WorldGuard et ensuite, vous pourrez ajouter/supprimer/regarder_la_list avec la commande "/antinostuff <add|remove|list> <WorldGuard_area_name>" </br>
 
