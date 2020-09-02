@@ -1,1 +1,12 @@
+#AntiNoStuffArea plugin by HiroTeam | Plugin de AntiNoStuffArea par la HiroTeam
+#██╗░░██╗██╗██████╗░░█████╗░████████╗███████╗░█████╗░███╗░░░███╗
+#██║░░██║██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗████╗░████║
+#███████║██║██████╔╝██║░░██║░░░██║░░░█████╗░░███████║██╔████╔██║
+#██╔══██║██║██╔══██╗██║░░██║░░░██║░░░██╔══╝░░██╔══██║██║╚██╔╝██║
+#██║░░██║██║██║░░██║╚█████╔╝░░░██║░░░███████╗██║░░██║██║░╚═╝░██║
+#╚═╝░░╚═╝╚═╝╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
+#description:
+#ENG: This is a plugin where you can add WorldGuard areas as AntiNoStuff area !
+#FRA: C'est un plugin où vous pourrez ajouter des Areas WorldGuard comme Area AntiNoStuff !
+
 NoStuffMessage: "§cYou can't go to this area without a full stuff"
