@@ -1,0 +1,13 @@
+name: AntiNoStuffArea-HiroTeam
+author: HiroTeam-Willy
+version: 1.0.0
+api: 3.0.0
+main: HiroTeam\AntiNoStuff\AntiNoStuffMain
+description: WorldGuard extension to block no stuff player of an area
+softdepend: [WorldGuard]
+
+commands:
+  antinostuff:
+    description: "Add a AntiNoStuff in a WorldGuard area. [§4Hiro§bTeam §rPlugin]"
+    usage: /antinostuff <[add|remove|list]> <WorldGuard area name>
+
