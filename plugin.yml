@@ -4,7 +4,7 @@ version: 1.0.0
 api: 3.0.0
 main: HiroTeam\AntiNoStuff\AntiNoStuffMain
 description: WorldGuard extension to block no stuff player of an area
-softdepend: [WorldGuard]
+depend: [WorldGuard]
 
 commands:
   antinostuff:
