@@ -1,18 +1,18 @@
-# AntiNoStuffArea-HiroTeam
+# AntiNoArmorPlayerArea-HiroTeam
 ![AntiNoStuffArea](https://zupimages.net/up/20/24/4988.png)
 ---
 ### About
-[ENG] This is a [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (or forks) plugin Worldguard Addon where you can add WorldGuard areas as AntiNoStuff area. An AntiNoStuff Area allow to eject no stuff players from the area ! :grin:<br/><br/>
+[ENG] This is a [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (or forks) plugin Worldguard Addon where you can add WorldGuard areas as AntiNoStuff area. An Anti No Armor Player Area allow to eject no stuff players from the area ! :grin:<br/><br/>
 [FRA] C'est un [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) plugin Worldguard Addon où vous pourrez ajouter des Areas WorldGuard comme Area AntiNoStuff. Un AntiNoStuff Area permet d'éjécter les joueurs No Stuff de l'area ! :grin:
 
 ---
 ### How to use
-[ENG] Configure in config.yml the message. Don't forget install WorldGuard in your Server. Make a area with WorldGuard and after you can add/remove/see_list AntiNoStuff area with the command "/antinostuff <add/remove/list> <WorldGuard area name>" </br>
+[ENG] Configure in config.yml the message. Don't forget install WorldGuard in your Server. Make a area with WorldGuard and after you can add/remove/see_list AntiNoArmorPlayerArea area with the command "/antinostuff <add/remove/list> <WorldGuard area name>" </br>
 
 [FRA] Configurer dans le config.yml votre message. N'oubliez pas d'installer WorldGuard sur votre serveur. Créer une area avec WorldGuard et ensuite, vous pourrez ajouter/supprimer/regarder_la_list avec la commande "/antinostuff <add|remove|list> <WorldGuard_area_name>" </br>
 
 ##### Here is the video:
-- AntiNoStuffArea Pocketmine plugin in [Youtube](https://youtu.be/RW9I0fZERMo) !
+- AntiNoArmorPlayerArea Pocketmine plugin in [Youtube](https://youtu.be/RW9I0fZERMo) !
 ---
 ### **This plugin was tested (and works) on:**
 
